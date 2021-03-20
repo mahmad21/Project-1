@@ -1,4 +1,38 @@
-ssh azureuser@13.64.97.109
+$ ssh azureuser@13.64.97.109
+Welcome to Ubuntu 18.04.5 LTS (GNU/Linux 5.4.0-1040-azure x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Sat Mar 20 20:25:00 UTC 2021
+
+  System load:  0.0               Processes:              117
+  Usage of /:   9.1% of 28.90GB   Users logged in:        0
+  Memory usage: 30%               IP address for eth0:    10.0.0.4
+  Swap usage:   0%                IP address for docker0: 172.17.0.1
+
+ * Introducing self-healing high availability clusters in MicroK8s.
+   Simple, hardened, Kubernetes for production, from RaspberryPi to DC.
+
+     https://microk8s.io/high-availability
+
+ * Canonical Livepatch is available for installation.
+   - Reduce system reboots and improve kernel security. Activate at:
+     https://ubuntu.com/livepatch
+
+22 packages can be updated.
+0 of these updates are security updates.
+To see these additional updates run: apt list --upgradable
+
+New release '20.04.2 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+*** System restart required ***
+Last login: Sat Mar 20 20:19:30 2021 from 73.24.236.7
+azureuser@Jump-Box-Provisioner:~$
+
 azureuser@Jump-Box-Provisioner:~$ sudo docker ps -a
 CONTAINER ID        IMAGE                    COMMAND             CREATED             STATUS                        PORTS               NAMES
 a393f44d5ddf        cyberxsecurity/ansible   "bash"              4 weeks ago         Exited (127) 28 minutes ago                       upbeat_jepsen
