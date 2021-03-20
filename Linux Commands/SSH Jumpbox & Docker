@@ -39,4 +39,10 @@ a393f44d5ddf        cyberxsecurity/ansible   "bash"              4 weeks ago    
 azureuser@Jump-Box-Provisioner:~$ sudo docker start a39
 a39
 azureuser@Jump-Box-Provisioner:~$ sudo docker attach a39
-root@a393f44d5ddf:~#
+root@a393f44d5ddf:~# cd /etc/ansible/
+root@a393f44d5ddf:/etc/ansible# ls
+ansible.cfg  elk.yml  filebeat-config.yml  filebeat.yml  hosts  roles  webserver.yml
+root@a393f44d5ddf:/etc/ansible# curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/raw/eca603b72586fbe148c11f9c87bf96a63cb25760/Filebeat >> /etc/ansible/filebeat-config.yml
+
+
+
