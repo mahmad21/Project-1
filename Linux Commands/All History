@@ -1,0 +1,209 @@
+root@a393f44d5ddf:/etc/ansible# cat ~/.bash_history
+exit
+ssh-keygen
+ls
+cat ~/.ssh
+cd ~/.ssh/
+ls
+cat id_rsa.pub
+ssh sysadmin10.0.0.5
+ssh sysadmin@10.0.0.5
+cd /etc/ansible
+clear
+cat id_rsa.pub
+cd
+ls
+cat id_rsa.pub
+exit
+cd /etc/adnsible/
+cd /etc/ansible/
+ls
+sudo nano ansible.cfg
+nano ansible.cfg
+nano hosts
+ansible webservers -m ping
+cd /etc/ansible
+clear
+nano webserver.yml
+clear
+ansible-playbook dvwa.yml
+ls
+clear
+ls
+ansible-playbook dvwa.yml
+ansible-playbook webserver.yml
+nano webserver.yml
+ansible-playbook webserver.yml
+nano webserver.yml
+ansible-playbook webserver.yml
+nano webserver.yml
+ansible-playbook webserver.yml
+nano webserver.yml
+ansible-playbook webserver.yml
+nano webserver.yml
+ansible-playbook webserver.yml
+nano webserver.yml
+ansible-playbook webserver.yml
+nano webserver.yml
+ansible-playbook webserver.yml
+nano webserver.yml
+ansible-playbook webserver.yml
+nano webserver.yml
+clear
+ansible-playbook webserver.yml
+sudo /etc/hosts
+/etc/hosts
+sudo cd /etc/host
+clear
+sudo nano /etc/hosts
+nano /etc/hosts
+clear
+nano hosts
+ansible-playbook webserver.yml
+ssh sysadmin@10.0.0.5
+ssh sysadmin@10.0.0.6
+clear
+cd /etc/ansible
+ls
+nano webserver.yml
+ansible-playbook webserver.yml
+cat ~/home.ssh/id_rsa.pub
+ls
+cat ~/.ssh/id_rsa.pub
+clear
+cd /etc/ansible
+ls
+nano hosts
+ls
+nano elk.yml
+clear
+ls
+cat elk.yml
+nano host
+ls
+nano hosts
+ansible-playbook elk.yml --syntax-check
+clear
+nano hosts
+ansible-playbook elk.yml --syntax-check
+nano elk.yml
+ansible-playbook elk.yml --syntax-check
+cat elk.yml
+nano hosts
+nano elk.yml
+ansible-playbook elk.yml --syntax-check
+nano elk.yml
+ansible-playbook elk.yml --syntax-check
+nano elk.yml
+nano hosts
+ansible-playbook elk.yml --syntax-check
+clear
+ansible-playbook elk.yml
+exit
+clear
+ls
+clear
+curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/raw/eca603b72586fbe148c11f9c87bf96a63cb25760/Filebeat >> /etc/ansible/filebeat-config.yml
+ls
+nano filebear-config.yml
+clear
+curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/raw/eca603b72586fbe148c11f9c87bf96a63cb25760/Filebeat >> /etc/ansible/filebeat-config.yml
+ls
+clear
+ls
+clear
+curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/raw/eca603b72586fbe148c11f9c87bf96a63cb257
+ls
+curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/raw/eca603b72586fbe148c11f9c87bf96a63cb25760/Filebeat > /etc/ansible/filebeat-config.yml
+ls
+cd /etc/ansible/
+ls
+nano -l filebeat-config.yml
+curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/raw/eca603b72586fbe148c11f9c87bf96a63cb25760/Filebeat >> /etc/ansible/filebeat-config.yml
+nano -l filebeat-config.yml
+
+ls
+ansible-playbook filebeat.yml
+nano filebeat.yml
+nano -l filebeat-config.yml
+ansible-playbook filebeat.yml
+clear
+nano -l filebeat-config.yml
+ansible-playbook filebeat.yml
+nano filebeat.yml
+clear
+ansible-playbook filebeat.yml
+
+rm filebeat.yml
+ls
+nano filebeat.yml
+ansible-playbook filebeat.yml --syntax-check
+nano filebeat.yml
+ansible-playbook filebeat.yml
+nano filebeat.yml
+nano -l filebeat-config.yml
+ls
+rm filebeat-config.yml
+ls
+curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/raw/eca603b72586fbe148c11f9c87bf96a63cb25760/Filebeat >> /etc/ansible/filebeat-config.yml
+ls
+nano filebeat-config.yml
+nano -l filebeat-config.yml
+ansible-playbook filebeat.yml
+nano filebeat.yml
+nano filebeat1.yml
+nano filebeat-config.yml
+nano -l filebeat-config.yml
+ansible-playbook filebeat1.yml
+ls
+rm filebeat.yml
+ls
+clear
+ansible-playbook filebeat.yml
+nano -l filebeat-config.yml
+ansible-playbook filebeat.yml
+nano -l filebeat-config.yml
+ansible-playbook filebeat.yml
+nano -l filebeat-config.yml
+clear
+nano -l filebeat-config.yml
+ansible-playbook filebeat.yml
+exit
+ls
+nano -l filebeat-config.yml
+nano filebeat1.yml
+nano filebeat-config.yml
+ls
+cd /etc/ansible/
+ls
+nano filebeat.yml
+git clone https://github.com/mahmad21/Elk-Stack.git
+ls
+mkdir Linux Ansible Diagrams
+ls
+git add .
+git add
+git add.
+nano filebeat1.yml
+cd /etc/ansible/
+ls
+clear
+ls
+nano ansible.cfg
+nano filebeat-config.yml
+cat filebeat.yml
+lear
+clear
+ls
+cat elk.yml
+cat filebeat.yml
+clear
+ls
+cat webserver.yml
+cat hosts
+./
+cs ./
+exit
+ls
+exit
+root@a393f44d5ddf:/etc/ansible# less ~/.bash_history
