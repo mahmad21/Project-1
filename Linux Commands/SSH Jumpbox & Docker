@@ -1,0 +1,8 @@
+ssh azureuser@13.64.97.109
+azureuser@Jump-Box-Provisioner:~$ sudo docker ps -a
+CONTAINER ID        IMAGE                    COMMAND             CREATED             STATUS                        PORTS               NAMES
+a393f44d5ddf        cyberxsecurity/ansible   "bash"              4 weeks ago         Exited (127) 28 minutes ago                       upbeat_jepsen
+azureuser@Jump-Box-Provisioner:~$ sudo docker start a39
+a39
+azureuser@Jump-Box-Provisioner:~$ sudo docker attach a39
+root@a393f44d5ddf:~#
