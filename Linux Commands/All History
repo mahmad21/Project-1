@@ -1,23 +1,16 @@
 root@a393f44d5ddf:/etc/ansible# cat ~/.bash_history
 exit
 ssh-keygen
-ls
 cat ~/.ssh
 cd ~/.ssh/
-ls
 cat id_rsa.pub
 ssh sysadmin10.0.0.5
 ssh sysadmin@10.0.0.5
 cd /etc/ansible
 clear
 cat id_rsa.pub
-cd
-ls
 cat id_rsa.pub
-exit
-cd /etc/adnsible/
 cd /etc/ansible/
-ls
 sudo nano ansible.cfg
 nano ansible.cfg
 nano hosts
